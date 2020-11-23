@@ -81,7 +81,7 @@ a{
 }
 .a .mom .text div a img{
     width: 20px;
-    animation: roll 3s infinite;
+    animation: roll 3s 4;
 }
 
 @keyframes roll{
