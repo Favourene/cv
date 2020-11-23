@@ -297,6 +297,7 @@ a{
 .d .top{
     border-left: 4px solid #5C5A5A;
     padding-left: 5px;
+    padding-bottom: 10px;
 }
 .d .top img{
     width: 30px;
